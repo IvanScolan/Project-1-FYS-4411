@@ -1,0 +1,5 @@
+Here is a brief description of this folder :
+
+The code developped here contains a search for the optimal alpha using a gradient descent method. Than, it generates a big amount of energy value (not average), and it is
+run in parallel using MPI. The problem contains no interraction part.
+The data is then analysed in "visu.py" where we used the algorithm developped by Marius Jonsson.
