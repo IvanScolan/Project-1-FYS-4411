@@ -1,0 +1,3 @@
+Here is a brief description of the folder :
+
+This folder contain the explicit version (non vectorized) of the implementation of a gradient descent algorithm with memory.
