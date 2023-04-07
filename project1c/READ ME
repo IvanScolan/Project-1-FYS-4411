@@ -1,1 +1,11 @@
-ddd
+Here is a brief description of each folder :
+
+"study new method" is the exploration of a way to find the ideal alpha that I discribing in the report.
+
+"Study time step" is the codes associated to my study of how the time step affects the importance sampling. The two code files in
+this folder give us : -a graph of E-alpha for different values for the time step (code E_alpha for different time step)
+                      -a graph of sum(E_L-Eexact)-time step
+                      
+
+"VMC_E" does the same as "fast code" in the project b but with importance sampling.
+
