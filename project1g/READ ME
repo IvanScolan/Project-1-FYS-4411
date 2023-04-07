@@ -1,0 +1,9 @@
+Here is a brief description of this folder :
+
+The code developped here contains a search for the optimal alpha using a gradient descent method. Than, it generates a big amount of energy value (not average), and it is
+run in parallel using MPI.
+
+The problem contains the interraction part. However it is limited by the the way of computing the local energy wich is too demanding in CPU time. Moreover it seems that this 
+affects the random generator when it is run in parallel. I don't know yet what is the bug in this code.
+
+The data is then analysed in "visu.py" where we used the algorithm developped by Marius Jonsson.
