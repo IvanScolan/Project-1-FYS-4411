@@ -1,0 +1,9 @@
+Here is a brief description of each folder :
+
+"Complete code for N particles and D dimension" is an explicit programm af a Monte-Carlos method for an hamornic trap without any interraction. This code is adapted
+for N particles and D dimension
+
+"CPU time analysis" is the code that we used for comparing the CPU time difference between a computattion of the local energy using 
+a numeric approximation and an analytic expression.
+
+"Fast code" does the same as "Complete code for N particles and D dimension" but it is vectorized.
